@@ -1,6 +1,7 @@
 # YourDailyQuote
 App that allows you to get 3 inspirational quotes per day.
-The application also has a pseudo unlockable functionality (limit on the number of requests per day)ю
+
+The application also has a pseudo unlockable functionality (limit on the number of requests per day).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82824022/211313268-21f447a5-d5d8-4510-a210-ebff969aae90.PNG" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/82824022/211313253-333da18f-f045-4acb-afe7-f3f0446b1b01.PNG" width=30% height=30%> 

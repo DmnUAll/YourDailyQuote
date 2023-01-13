@@ -1,6 +1,6 @@
 # YourDailyQuote
 This app is based on https://zenquotes.io/ API.\
-It allows you to get 3 inspirational quotes per day.\
+It allows you to get 3 inspirational quotes per day.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82824022/211313268-21f447a5-d5d8-4510-a210-ebff969aae90.PNG" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/82824022/211313253-333da18f-f045-4acb-afe7-f3f0446b1b01.PNG" width=30% height=30%> 
